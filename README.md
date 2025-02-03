@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JustinTheGreat&show_icons=true&locale=en" alt="JustinZheng" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JustinTheGreat&" alt="JustinZheng" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JustinTheGreat&" alt="JustinZheng Streak Stats" /></p>
