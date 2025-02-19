@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **realjustinzheng@gmail.com**
 
-- 📄 Know about my experiences [Link](www.google.com)
+- 📄 Know about my experiences [Link](https://github.com/JustinTheGreat/JustinTheGreat/blob/main/Resume.pdf)
 <p align="left">
 </p>
 
